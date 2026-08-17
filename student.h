@@ -3,5 +3,6 @@
 
 void showStudent();
 void showAllStudents();
+void searchStudent();
 
 #endif
