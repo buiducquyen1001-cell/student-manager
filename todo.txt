@@ -1,0 +1,4 @@
+TODO:
+- Hoc git add
+- Hoc git commit
+- Hoc git push
