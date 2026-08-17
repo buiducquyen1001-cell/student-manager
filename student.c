@@ -4,3 +4,7 @@
 void showStudent() {
     printf("Student information\n");
 }
+void showAllStudents() {
+    printf("Student 1: Nguyen Van A\n");
+    printf("Student 2: Tran Van B\n");
+}
